@@ -2,7 +2,8 @@
 
 
 
-<img src="D:\MarkdownFiles\Qt_md\ProjectFiles\assets\MoonMusic_M8B7Dnd3xr.png" alt="MoonMusic_M8B7Dnd3xr" style="zoom:50%;" />
+![MoonMusic_M8B7Dnd3xr](https://github.com/user-attachments/assets/fe2c67be-a8c2-4020-ae97-483bb4df34ac)
+
 
 ## 一. 项目概述
 
